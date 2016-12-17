@@ -1,0 +1,1 @@
+include ':activity-example', ':fragment-example', ':internet-reconnect-example', ':viewpager-example'

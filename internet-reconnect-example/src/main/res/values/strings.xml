@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Config Change</string>
+    <string name="error_message">No Data Available\nThere are three things you can do\n1.Pull to refresh to try again\n2.Enable internet connection and wait, app will reconnect on its own\n3. Use SnackBar Retry button</string>
+</resources>

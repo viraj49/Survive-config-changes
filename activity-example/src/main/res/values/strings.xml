@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Config Change</string>
+    <string name="error_message">Error Loading Data</string>
+</resources>
