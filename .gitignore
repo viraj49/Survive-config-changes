@@ -1,7 +1,11 @@
-*.properties
-*.lock
-.gradle/2.14.1/taskArtifacts/fileHashes.bin
-.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin
-.gradle/2.14.1/taskArtifacts/fileSnapshots.bin
-.idea/compiler.xml
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
 .idea/copyright/profiles_settings.xml
+.idea/compiler.xml
