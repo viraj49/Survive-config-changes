@@ -37,3 +37,6 @@ This example show cases, how to reconnect with internet connection.
 
 Subscribe Connectivity Broadcast receiver on ``BIND``.</br>
 Unsubscribe Connectivity Broadcast receiver on ``onDestroy`` or ``UNBIND``.
+
+## Auto Reconnect Example
+![Auto Reconnect GIF](https://github.com/viraj49/Survive-config-changes/blob/master/auto-reconnect.gif)
